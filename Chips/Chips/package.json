@@ -10,5 +10,9 @@
   },
   "author": {
     "name": "KAPATCH"
+  },
+  "dependencies": {
+    "@types/express": "^4.0.35",
+    "express": "^4.15.3"
   }
 }
